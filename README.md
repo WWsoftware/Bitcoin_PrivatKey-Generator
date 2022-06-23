@@ -1,3 +1,3 @@
-# Bitcoin_Privat_Key_Generator
+# Bitcoin Privat_Key Generator
 7zip password: 133
 
